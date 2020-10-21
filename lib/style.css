@@ -1,0 +1,34 @@
+h1
+{
+    text-align: center;
+}
+
+li
+{
+    text-align: justify;
+}
+
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
+
+#fondo_imagen
+{
+    background-color: chartreuse;
+}
+
+#contorno1
+{
+    background-color: aqua;
+}
+
+#contorno2
+{
+    background-color: bisque;
+}
+
+
